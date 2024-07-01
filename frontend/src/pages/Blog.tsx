@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "framer-motion";
 import { Appbar } from "../components/Appbar";
 import { FullBlog } from "../components/FullBlog";

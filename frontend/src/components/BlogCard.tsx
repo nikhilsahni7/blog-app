@@ -16,7 +16,6 @@ export const BlogCard: React.FC<BlogCardProps> = ({
   authorName,
   title,
   content,
-  createdDate,
 }) => {
   const stripHtml = (html: string) => {
     const tmp = document.createElement("DIV");
